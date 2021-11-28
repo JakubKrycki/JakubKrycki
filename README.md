@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JakubKrycki
-- 👀 I’m interested in ... C++, Python, Java
-- 🌱 I’m currently learning ... Python, Java
+- 👀 I’m interested in ... C++, Python, Java, Spring
+- 🌱 I’m currently learning ... Java, Spring
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... kuba@krycki.pl
 
 <!---
 JakubKrycki/JakubKrycki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
