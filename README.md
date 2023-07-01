@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JakubKrycki
-- 👀 I’m interested in ... Java, Spring Framework, Angular, React, Svelte, Vue.js
-- 🌱 I’m currently learning ... React, Svelte
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... kuba@krycki.pl
+- 👀 I’m interested in Java, Spring Framework, Javascript, Typescript, Angular, React.js, SvelteKit, Vue.js
+- 🌱 I’m currently improving my skills with React.js, SvelteKit
+- 📫 How to reach me: jakub@krycki.pl
 
 <!---
 JakubKrycki/JakubKrycki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
