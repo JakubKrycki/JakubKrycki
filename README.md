@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JakubKrycki
-- 👀 I’m interested in Java, Spring Framework, Javascript, Typescript, Angular, React.js, SvelteKit, Vue.js
-- 🌱 I’m currently improving my skills with React.js, SvelteKit
+- 👀 I’m working mostly with React.js, Typescript, Java, Spring Boot
 - 📫 How to reach me: jakub@krycki.pl
 
 <!---
